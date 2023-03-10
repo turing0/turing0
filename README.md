@@ -1,4 +1,5 @@
-![Turing0's GitHub stats](https://github-readme-stats.vercel.app/api?username=turing0&show_icons=true&theme=tokyonight)
+
+<a href="https://laphel.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=turing0&show_icons=true&count_private=false&theme=tokyonight" /></a>
 
 ### Hi there 👋
 
